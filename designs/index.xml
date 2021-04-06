@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on Ilja Golland</title>
+    <link>igllnd.github.io/designs.html</link>
+    <description>Recent content in Designs on Ilja Golland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ilja Golland</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="igllnd.github.io/designs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Illustrator</title>
+      <link>igllnd.github.io/designs/illustrator.html</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>igllnd.github.io/designs/illustrator.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photoshop</title>
+      <link>igllnd.github.io/designs/photoshop.html</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>igllnd.github.io/designs/photoshop.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
